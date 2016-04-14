@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+.gallery_page {
+	width:960px;
+	height:auto;
+	float:left;
+	margin-left:20px;
+}
+.image {
+
+	float:left;
+	border:#999999 solid 1px;
+
+	
+}
+.faculty {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#992113;
+}
+	
+	.portfolio_web ul {
+    margin: 0;
+    padding: 0;
+}
+.portfolio_web ul li {
+    background: none repeat scroll 0 0 #EDEDED;
+    border: 2px solid #E8E8E8;
+    float: left;
+    list-style: none outside none;
+    margin: 20px 12px 10px 10px;
+    padding: 20px 5px 5px;
+}
+
+.text-add {
+    color: #fff;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+	width:127px;
+	height:25px;
+	line-height:25px;
+	background-color:#214004;
+	text-align:center;
+	font-weight:bold;
+}
+.htno {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#992113;
+	margin-top:5px;
+	font-weight:bold;
+	
+}
+.result_left {
+	width:980px;
+	height:auto;
+	float:left;
+}
+
+
